@@ -1,3 +1,5 @@
+/*같은 숫자는 싫어*/
+
 package algorithm1;
 import java.util.*;
 
